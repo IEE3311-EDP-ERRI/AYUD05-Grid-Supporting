@@ -2,7 +2,7 @@
 
 This teaching assitant session we provide the fundamental knowledge of Grid Supporting related to Droop Control.
 
-01.- You can find the video [here](https://youtu.be/FKAxPykBwRk).<br>
+01.- You can find the video [here](https://youtu.be/FKAxPykBwRk?si=PL2HVgYq5br6JvQQ).<br>
 02.- The simulation file [here](https://github.com/IEE3311-EDP-ERRI/AYUD05-Grid-Supporting/blob/main/Grid_Supporting.plecs)<br>
 03.- The presentation [here](https://github.com/IEE3311-EDP-ERRI/AYUD05-Grid-Supporting/blob/main/Grid_Supporting.pdf)<br>
 05.- Proposed exercise of the teaching assistant session [here](https://github.com/IEE3311-EDP-ERRI/AYUD05-Grid-Supporting/blob/main/Ayudantia_05_GS.pdf)<br>
